@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace "948191499358830" with your Facebook App ID here. -->
+    <string name="app_name">ogulcanonal</string>
+    <string name="facebook_app_id">948191499358830</string>
+    <string name="fb_login_protocol_scheme">fb948191499358830</string>
+</resources>
